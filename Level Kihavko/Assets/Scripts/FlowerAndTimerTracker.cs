@@ -56,10 +56,10 @@ public class FlowerAndTimerTracker : MonoBehaviour
 
     void UpdateUI()
     {
-       if (Mathf.CeilToInt(currentTime)>9) timerText.text = "BODOVI: 00:" + Mathf.CeilToInt(currentTime);
+       if (Mathf.CeilToInt(currentTime)>9) timerText.text = "00:" + Mathf.CeilToInt(currentTime);
         else
         {
-            timerText.text = "BODOVI: 00:0" + Mathf.CeilToInt(currentTime);
+            timerText.text = "00:0" + Mathf.CeilToInt(currentTime);
         }
         flowersCutText.text = flowersCut + "/" + totalFlowers;
     }
