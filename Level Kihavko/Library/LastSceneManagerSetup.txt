@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Kihavko.unity
+- path: Assets/Scenes/Introduction_Kihavko.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
