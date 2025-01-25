@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: a03529ffd3b5c42388be26d966991d71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4276577610969409598
+    second: planinatupko_0
+  - first:
+      213: -1728804628569896584
+    second: planinatupko_1
+  - first:
+      213: 477191586703244053
+    second: planinatupko_2
+  - first:
+      213: -7054639419945009508
+    second: planinatupko_3
+  - first:
+      213: -6471912818243132617
+    second: planinatupko_4
+  - first:
+      213: 3028770276442931021
+    second: planinatupko_5
+  - first:
+      213: 4917221738701953170
+    second: planinatupko_6
+  - first:
+      213: 4784843230163135417
+    second: planinatupko_7
+  - first:
+      213: -5426484539865090706
+    second: planinatupko_8
+  - first:
+      213: -2357563213209936848
+    second: planinatupko_9
+  - first:
+      213: -6259143133428411043
+    second: planinatupko_10
+  - first:
+      213: 3965331231593279509
+    second: planinatupko_11
+  - first:
+      213: 9022043942209560528
+    second: planinatupko_12
+  - first:
+      213: 3714571363512437951
+    second: planinatupko_13
+  - first:
+      213: -5401266228115360666
+    second: planinatupko_14
+  - first:
+      213: -5123282479698577514
+    second: planinatupko_15
+  - first:
+      213: 1390959561652031806
+    second: planinatupko_16
+  - first:
+      213: 8779920051127701988
+    second: planinatupko_17
+  - first:
+      213: -728735879740972040
+    second: planinatupko_18
+  - first:
+      213: 7738310399141795442
+    second: planinatupko_19
+  - first:
+      213: 7787603160288575745
+    second: planinatupko_20
+  - first:
+      213: -56136567120761961
+    second: planinatupko_21
+  - first:
+      213: -7383137362985416108
+    second: planinatupko_22
+  - first:
+      213: -5088675004935116893
+    second: planinatupko_23
+  - first:
+      213: 6736046921794159894
+    second: planinatupko_24
+  - first:
+      213: -4712884303283145758
+    second: planinatupko_25
+  - first:
+      213: -3347293995361262422
+    second: planinatupko_26
+  - first:
+      213: 722273585853777293
+    second: planinatupko_27
+  - first:
+      213: -7118247383536388649
+    second: planinatupko_28
+  - first:
+      213: 2908284339658845388
+    second: planinatupko_29
+  - first:
+      213: -1234531796312553891
+    second: planinatupko_30
+  - first:
+      213: 5265321097951914850
+    second: planinatupko_31
+  - first:
+      213: 6721312174995231180
+    second: planinatupko_32
+  - first:
+      213: 4071941386715067495
+    second: planinatupko_33
+  - first:
+      213: -3990153445621888766
+    second: planinatupko_34
+  - first:
+      213: -6060973996263626194
+    second: planinatupko_35
+  - first:
+      213: -3527155671199422016
+    second: planinatupko_36
+  - first:
+      213: 4236660447339346502
+    second: planinatupko_37
+  - first:
+      213: 7782906855369401265
+    second: planinatupko_38
+  - first:
+      213: -2255584732971563053
+    second: planinatupko_39
+  - first:
+      213: 8817918730447002584
+    second: planinatupko_40
+  - first:
+      213: 8845709605737941103
+    second: planinatupko_41
+  - first:
+      213: 8526882222365757035
+    second: planinatupko_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: planinatupko_0
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 2042
+        width: 183
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c797c3325b86a4c0800000000000000
+      internalID: -4276577610969409598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_1
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 2112
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8794a04995d0208e0800000000000000
+      internalID: -1728804628569896584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_2
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 2088
+        width: 224
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b704748335f9600800000000000000
+      internalID: 477191586703244053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_3
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 2114
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eb5bb13d2e81e90800000000000000
+      internalID: -7054639419945009508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_4
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 2044
+        width: 302
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733225bd4952f26a0800000000000000
+      internalID: -6471912818243132617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_5
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 2052
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f74a1f48a580a20800000000000000
+      internalID: 3028770276442931021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_6
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 2056
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29898296e1b7d3440800000000000000
+      internalID: 4917221738701953170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_7
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 2040
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb6ecf019d276240800000000000000
+      internalID: 4784843230163135417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_8
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2048
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65313ecf0141b4b0800000000000000
+      internalID: -5426484539865090706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_9
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 2020
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cd71d9fb0484fd0800000000000000
+      internalID: -2357563213209936848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_10
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1598
+        width: 428
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d559ca58b7e0329a0800000000000000
+      internalID: -6259143133428411043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_11
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 2034
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51031e3febfa70730800000000000000
+      internalID: 3965331231593279509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 3508
+        height: 1840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df9d532a2db43d70800000000000000
+      internalID: 9022043942209560528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_13
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 1264
+        width: 615
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc4ff679fecc8330800000000000000
+      internalID: 3714571363512437951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 911
+        width: 48
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664bedf8bf8da05b0800000000000000
+      internalID: -5401266228115360666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6977591aab176e8b0800000000000000
+      internalID: -5123282479698577514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 75
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31d3390a5ead4310800000000000000
+      internalID: 1390959561652031806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 65
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1dbcbb4ca88d970800000000000000
+      internalID: 8779920051127701988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 57
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f325f0149203e5f0800000000000000
+      internalID: -728735879740972040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 48
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276de860f40046b60800000000000000
+      internalID: 7738310399141795442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 64
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101c5b450df131c60800000000000000
+      internalID: 7787603160288575745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b6bd1f610983ff0800000000000000
+      internalID: -56136567120761961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 44
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a07579fa3d98990800000000000000
+      internalID: -7383137362985416108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7ee614b056169b0800000000000000
+      internalID: -5088675004935116893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 53
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61587eb7cfe3b7d50800000000000000
+      internalID: 6736046921794159894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 42
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e33b4332b8789eb0800000000000000
+      internalID: -4712884303283145758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 66
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a1bf88d50c81d0800000000000000
+      internalID: -3347293995361262422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d854673eff7060a00800000000000000
+      internalID: 722273585853777293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 34
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5b5f008b7e63d90800000000000000
+      internalID: -7118247383536388649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 44
+        width: 199
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc623bb23d4c5820800000000000000
+      internalID: 2908284339658845388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d568dd04fdf0edee0800000000000000
+      internalID: -1234531796312553891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b2bc744ad221940800000000000000
+      internalID: 5265321097951914850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc15917efc5e64d50800000000000000
+      internalID: 6721312174995231180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 35
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764fc5dfd11728830800000000000000
+      internalID: 4071941386715067495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209086af49020a8c0800000000000000
+      internalID: -3990153445621888766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aa3d7434813eba0800000000000000
+      internalID: -6060973996263626194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c967aeca960d0fc0800000000000000
+      internalID: -3527155671199422016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 492
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64afb95ea34abca30800000000000000
+      internalID: 4236660447339346502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_38
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 369
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3ee32ac80720c60800000000000000
+      internalID: 7782906855369401265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_39
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 25
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d78f6ec2ad82b0e0800000000000000
+      internalID: -2255584732971563053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_40
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 4
+        width: 101
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db9e82bd5a8f5a70800000000000000
+      internalID: 8817918730447002584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_41
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 0
+        width: 179
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f684544150642ca70800000000000000
+      internalID: 8845709605737941103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planinatupko_42
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 71
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e44b13432955670800000000000000
+      internalID: 8526882222365757035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      planinatupko_0: -4276577610969409598
+      planinatupko_1: -1728804628569896584
+      planinatupko_10: -6259143133428411043
+      planinatupko_11: 3965331231593279509
+      planinatupko_12: 9022043942209560528
+      planinatupko_13: 3714571363512437951
+      planinatupko_14: -5401266228115360666
+      planinatupko_15: -5123282479698577514
+      planinatupko_16: 1390959561652031806
+      planinatupko_17: 8779920051127701988
+      planinatupko_18: -728735879740972040
+      planinatupko_19: 7738310399141795442
+      planinatupko_2: 477191586703244053
+      planinatupko_20: 7787603160288575745
+      planinatupko_21: -56136567120761961
+      planinatupko_22: -7383137362985416108
+      planinatupko_23: -5088675004935116893
+      planinatupko_24: 6736046921794159894
+      planinatupko_25: -4712884303283145758
+      planinatupko_26: -3347293995361262422
+      planinatupko_27: 722273585853777293
+      planinatupko_28: -7118247383536388649
+      planinatupko_29: 2908284339658845388
+      planinatupko_3: -7054639419945009508
+      planinatupko_30: -1234531796312553891
+      planinatupko_31: 5265321097951914850
+      planinatupko_32: 6721312174995231180
+      planinatupko_33: 4071941386715067495
+      planinatupko_34: -3990153445621888766
+      planinatupko_35: -6060973996263626194
+      planinatupko_36: -3527155671199422016
+      planinatupko_37: 4236660447339346502
+      planinatupko_38: 7782906855369401265
+      planinatupko_39: -2255584732971563053
+      planinatupko_4: -6471912818243132617
+      planinatupko_40: 8817918730447002584
+      planinatupko_41: 8845709605737941103
+      planinatupko_42: 8526882222365757035
+      planinatupko_5: 3028770276442931021
+      planinatupko_6: 4917221738701953170
+      planinatupko_7: 4784843230163135417
+      planinatupko_8: -5426484539865090706
+      planinatupko_9: -2357563213209936848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
