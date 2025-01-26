@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: d7b23fd69e564604982010049dcf0c03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4063974151155689190
+    second: drvecesrecko1_0
+  - first:
+      213: -5380634980878953469
+    second: drvecesrecko1_1
+  - first:
+      213: 8541278886925624400
+    second: drvecesrecko1_2
+  - first:
+      213: -2838563278844536927
+    second: drvecesrecko1_3
+  - first:
+      213: 6492137988846745373
+    second: drvecesrecko1_4
+  - first:
+      213: 2484778363542998335
+    second: drvecesrecko1_5
+  - first:
+      213: -9197091722780625495
+    second: drvecesrecko1_6
+  - first:
+      213: 3772149555108205711
+    second: drvecesrecko1_7
+  - first:
+      213: -2439987707367990007
+    second: drvecesrecko1_8
+  - first:
+      213: 1547318436687605467
+    second: drvecesrecko1_9
+  - first:
+      213: 308734542931397089
+    second: drvecesrecko1_10
+  - first:
+      213: 4102752472329977153
+    second: drvecesrecko1_11
+  - first:
+      213: 4440654138027267102
+    second: drvecesrecko1_12
+  - first:
+      213: -54527214460249937
+    second: drvecesrecko1_13
+  - first:
+      213: -3983395096567667566
+    second: drvecesrecko1_14
+  - first:
+      213: 6717835278496535660
+    second: drvecesrecko1_15
+  - first:
+      213: 8857249988469367018
+    second: drvecesrecko1_16
+  - first:
+      213: 1836720269337011404
+    second: drvecesrecko1_17
+  - first:
+      213: 4020933566353836830
+    second: drvecesrecko1_18
+  - first:
+      213: -7135515249721499510
+    second: drvecesrecko1_19
+  - first:
+      213: -6557775527565021844
+    second: drvecesrecko1_20
+  - first:
+      213: -4322913422793549726
+    second: drvecesrecko1_21
+  - first:
+      213: 2986161958100167784
+    second: drvecesrecko1_22
+  - first:
+      213: 7586140520957285491
+    second: drvecesrecko1_23
+  - first:
+      213: 5063377279708846879
+    second: drvecesrecko1_24
+  - first:
+      213: 2889910969664587376
+    second: drvecesrecko1_25
+  - first:
+      213: -4212151584630821257
+    second: drvecesrecko1_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drvecesrecko1_0
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 573
+        width: 1406
+        height: 1112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6210865f2266830800000000000000
+      internalID: 4063974151155689190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_1
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 980
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3045ba22ef42455b0800000000000000
+      internalID: -5380634980878953469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_2
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 842
+        width: 57
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054eebed4e7b88670800000000000000
+      internalID: 8541278886925624400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_3
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 937
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7d00cbcb56b98d0800000000000000
+      internalID: -2838563278844536927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 951
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d177702aa15b81a50800000000000000
+      internalID: 6492137988846745373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_5
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 871
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d8e88b1c4bb7220800000000000000
+      internalID: 2484778363542998335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_6
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 931
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5b9f07ecd5d5080800000000000000
+      internalID: -9197091722780625495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_7
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 846
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f845fdfd80e595430800000000000000
+      internalID: 3772149555108205711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 826
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dd2069b1c632ed0800000000000000
+      internalID: -2439987707367990007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_9
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 834
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde6d2d8bed297510800000000000000
+      internalID: 1547318436687605467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_10
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 827
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e981595e68d84400800000000000000
+      internalID: 308734542931397089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_11
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 819
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d7592e2a7efe830800000000000000
+      internalID: 4102752472329977153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_12
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 802
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14db73396f50ad30800000000000000
+      internalID: 4440654138027267102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_13
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 758
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8518f89c74e3ff0800000000000000
+      internalID: -54527214460249937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_14
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 806
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2942d0db34328b8c0800000000000000
+      internalID: -3983395096567667566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_15
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 794
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c649f5ad79b8a3d50800000000000000
+      internalID: 6717835278496535660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 686
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0ac81dfe54bea70800000000000000
+      internalID: 8857249988469367018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_17
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 771
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4a7958a575d7910800000000000000
+      internalID: 1836720269337011404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_18
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 749
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b07f756c93dc730800000000000000
+      internalID: 4020933566353836830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_19
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 678
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80a7fa9fae89fc90800000000000000
+      internalID: -7135515249721499510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_20
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 669
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dacbaf6e91ef4a0800000000000000
+      internalID: -6557775527565021844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_21
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 664
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2685f9f452de104c0800000000000000
+      internalID: -4322913422793549726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_22
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 657
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c6852ca7af07920800000000000000
+      internalID: 2986161958100167784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_23
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 568
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3741bd75c92674960800000000000000
+      internalID: 7586140520957285491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_24
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 566
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b54d81fcab44640800000000000000
+      internalID: 5063377279708846879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_25
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 569
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076cc5b27b60b1820800000000000000
+      internalID: 2889910969664587376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drvecesrecko1_26
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 566
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e2bf1637e6b85c0800000000000000
+      internalID: -4212151584630821257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
